@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e19fd8d23730b94a8dca01bfc3a3797, type: 3}
+  m_Name: Sample-Brand-2
+  m_EditorClassIdentifier: 
+  companyName: Sample Company 2
+  productName: Sample Application 2
+  version: v0.1
+  defaultIcon: {fileID: 21300000, guid: acc05a052b37bd2469057e0ffdb6d624, type: 3}
+  logo: {fileID: 21300000, guid: acc05a052b37bd2469057e0ffdb6d624, type: 3}
+  primaryBrandColor: {r: 0, g: 0, b: 0, a: 1}
+  secondaryBrandColor: {r: 1, g: 1, b: 1, a: 1}
+  splashLogo: {fileID: 21300000, guid: 2f70f41931cf31f42a10481f352537eb, type: 3}
+  splashBackground: {r: 1, g: 1, b: 1, a: 1}
+  bundleNumber: 0
+  bundleIdentifierIOS: com.samplecompany.sampleapp
+  bundleIdentifierAndroid: com.samplecompany.sampleapp

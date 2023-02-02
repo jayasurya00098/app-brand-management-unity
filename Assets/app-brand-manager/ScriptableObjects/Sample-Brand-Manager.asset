@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: faf6f47ae8084d44d8e0a584f8359667, type: 3}
+  m_Name: Sample-Brand-Manager
+  m_EditorClassIdentifier: 
+  referenceDefaultIcon: {fileID: 21300000, guid: d3f565e0b74bf5645bcd48ff871b661f, type: 3}
+  referenceLogo: {fileID: 21300000, guid: 9ab65ade12df6ce4b84486f485f17229, type: 3}
+  referenceSplashLogo: {fileID: 21300000, guid: 3ee5ab79d7d2e2c468de734e5b077114, type: 3}
+  brand: {fileID: 11400000, guid: 3fbede85664807c48ad26e46fe2bf343, type: 2}
